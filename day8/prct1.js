@@ -90,3 +90,16 @@ console.log('===============')
 // console.log(c)
 let c=30 ;
 console.log(c)
+
+
+// console.log(x)
+
+change()
+function change() {
+    let x = 2000
+    x = x + 30 
+    console.log(x)
+}
+// let x = 120 ;
+
+// console.log(x)
