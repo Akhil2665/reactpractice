@@ -77,29 +77,29 @@ let theater = {
   places: ['dilsukhnagar', "kukatpally", 'KPHB', 'Ameerpet', 'Panjagutta', 'Alwal']
 };
 
-console.log(a)
-var a = '10' ;
-console.log(a)
-console.log('===============')
+// console.log(a)
+// var a = '10' ;
+// console.log(a)
+// console.log('===============')
+// // console.log(b)
+// const b=20 ;
+
 // console.log(b)
-const b=20 ;
 
-console.log(b)
-
-console.log('===============')
+// console.log('===============')
+// // console.log(c)
+// let c=30 ;
 // console.log(c)
-let c=30 ;
-console.log(c)
 
 
-// console.log(x)
+// // console.log(x)
 
-change()
-function change() {
-    let x = 2000
-    x = x + 30 
-    console.log(x)
-}
-// let x = 120 ;
+// change()
+// function change() {
+//     let x = 2000
+//     x = x + 30 
+//     console.log(x)
+// }
+// // let x = 120 ;
 
-// console.log(x)
+// // console.log(x)
